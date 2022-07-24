@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "pipeatlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 32,
+				"h": 64
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bot",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 16
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 16
+					}
+				},
+				{
+					"filename": "center",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 16
+					},
+					"frame": {
+						"x": 0,
+						"y": 16,
+						"w": 32,
+						"h": 16
+					}
+				},
+				{
+					"filename": "top",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 16
+					},
+					"frame": {
+						"x": 0,
+						"y": 32,
+						"w": 32,
+						"h": 16
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:645792499759b8de4a330b160455e9a0:2b76ba765a2bcb1c1fa311e6fc3ce4c5:9d62ccd355349c73702dced7aace9c66$"
+	}
+}

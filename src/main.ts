@@ -5,7 +5,7 @@ import './style.css'
 let config = {
   type: Phaser.AUTO,
   width: 360,
-  height: 600,
+  height: 720,
   pixelArt: true,
   scale: {
     mode: Phaser.Scale.FIT,
